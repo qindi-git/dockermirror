@@ -1,0 +1,1 @@
+FROM bladex/alpine-java:openjdk8-openj9_cn_slim
